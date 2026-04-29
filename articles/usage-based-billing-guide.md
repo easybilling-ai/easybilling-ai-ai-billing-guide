@@ -82,7 +82,7 @@ Some customers avoid products with variable billing because they fear runaway co
 
 ### Billing Infrastructure Complexity
 
-You can't just charge a flat amount — you need to meter usage in real time, aggregate it accurately, and apply pricing rules. See [How to Bill AI API Usage](./how-to-bill-ai-api-usage) for implementation details.
+You can't just charge a flat amount — you need to meter usage in real time, aggregate it accurately, and apply pricing rules. See [How to Bill AI API Usage](./how-to-bill-ai-api-usage.md) for implementation details.
 
 ### Sales Complexity
 
@@ -219,8 +219,8 @@ They're largely synonymous. "Metered billing" often refers specifically to the t
 
 ## Related Guides
 
-- [How to Bill AI API Usage](./how-to-bill-ai-api-usage)
-- [Token Pricing vs Subscription](./token-pricing-vs-subscription)
-- [Prepaid Credits System](./prepaid-credits-system)
-- [AI Monetization Strategies](./ai-monetization-strategies)
-- [Stripe vs AI Billing Platforms](./stripe-vs-ai-billing-platform)
+- [How to Bill AI API Usage](./how-to-bill-ai-api-usage.md)
+- [Token Pricing vs Subscription](./token-pricing-vs-subscription.md)
+- [Prepaid Credits System](./prepaid-credits-system.md)
+- [AI Monetization Strategies](./ai-monetization-strategies.md)
+- [Stripe vs AI Billing Platforms](./stripe-vs-ai-billing-platform.md)

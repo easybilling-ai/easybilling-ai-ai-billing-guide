@@ -177,7 +177,7 @@ Ignoring tax compliance until they receive a government inquiry. Many founders a
 
 ## Related Guides
 
-- [How to Bill AI API Usage](./how-to-bill-ai-api-usage)
-- [Stripe vs AI Billing Platforms](./stripe-vs-ai-billing-platform)
-- [Prepaid Credits System for AI](./prepaid-credits-system)
+- [How to Bill AI API Usage](./how-to-bill-ai-api-usage.md)
+- [Stripe vs AI Billing Platforms](./stripe-vs-ai-billing-platform.md)
+- [Prepaid Credits System for AI](./prepaid-credits-system.md)
 - [Top AI Billing Platforms in 2026](./top-ai-billing-platforms-2026.md)

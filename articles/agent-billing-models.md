@@ -227,7 +227,7 @@ Enterprise customers typically prefer outcome-based or workflow pricing because 
 
 ## Related Guides
 
-- [AI Monetization Strategies](./ai-monetization-strategies)
-- [Token Pricing vs Subscription](./token-pricing-vs-subscription)
-- [How to Bill AI API Usage](./how-to-bill-ai-api-usage)
-- [Usage-Based Billing Guide](./usage-based-billing-guide)
+- [AI Monetization Strategies](./ai-monetization-strategies.md)
+- [Token Pricing vs Subscription](./token-pricing-vs-subscription.md)
+- [How to Bill AI API Usage](./how-to-bill-ai-api-usage.md)
+- [Usage-Based Billing Guide](./usage-based-billing-guide.md)

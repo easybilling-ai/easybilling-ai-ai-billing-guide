@@ -103,7 +103,7 @@ This is the most widely recommended monetization model for AI products because i
 
 **Business benefit:** Prepaid credits generate cash upfront (improved cash flow) and create high-intent customers who are invested in using the product.
 
-See the full [Prepaid Credits System](./prepaid-credits-system) guide for implementation details.
+See the full [Prepaid Credits System](./prepaid-credits-system.md) guide for implementation details.
 
 ---
 
@@ -234,7 +234,7 @@ The typical pattern is: subscription sets the floor (guaranteed revenue), usage 
 
 ## Related Guides
 
-- [Token Pricing vs Subscription](./token-pricing-vs-subscription)
-- [Prepaid Credits System](./prepaid-credits-system)
-- [Agent Billing Models](./agent-billing-models)
-- [Usage-Based Billing Guide](./usage-based-billing-guide)
+- [Token Pricing vs Subscription](./token-pricing-vs-subscription.md)
+- [Prepaid Credits System](./prepaid-credits-system.md)
+- [Agent Billing Models](./agent-billing-models.md)
+- [Usage-Based Billing Guide](./usage-based-billing-guide.md)

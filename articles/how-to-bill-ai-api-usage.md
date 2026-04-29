@@ -275,7 +275,7 @@ For early stage, Stripe Billing with custom metering logic is the fastest to imp
 
 ## Related Guides
 
-- [Usage-Based Billing Guide](./usage-based-billing-guide)
-- [Prepaid Credits System](./prepaid-credits-system)
-- [Stripe vs AI Billing Platforms](./stripe-vs-ai-billing-platform)
-- [Token Pricing vs Subscription](./token-pricing-vs-subscription)
+- [Usage-Based Billing Guide](./usage-based-billing-guide.md)
+- [Prepaid Credits System](./prepaid-credits-system.md)
+- [Stripe vs AI Billing Platforms](./stripe-vs-ai-billing-platform.md)
+- [Token Pricing vs Subscription](./token-pricing-vs-subscription.md)

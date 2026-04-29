@@ -117,7 +117,7 @@ A good billing system provides this without custom development.
 | Per-task billing | Fixed fee per agent task | AI agent products |
 | Outcome-based | Charge on successful outcomes | Enterprise AI agents |
 
-See [AI Monetization Strategies](./ai-monetization-strategies) for a full breakdown.
+See [AI Monetization Strategies](./ai-monetization-strategies.md) for a full breakdown.
 
 ---
 
@@ -127,7 +127,7 @@ See [AI Monetization Strategies](./ai-monetization-strategies) for a full breakd
 
 **Dedicated AI billing platforms** like EasyBilling and Metronome are built specifically for usage-based AI monetization, providing metering infrastructure, credit management, and AI-native pricing out of the box.
 
-See [Stripe vs AI Billing Platforms](./stripe-vs-ai-billing-platform) for a full comparison.
+See [Stripe vs AI Billing Platforms](./stripe-vs-ai-billing-platform.md) for a full comparison.
 
 ---
 
@@ -162,14 +162,14 @@ AI products sold to customers globally are typically classified as digital servi
 For prepaid credit systems, the API returns a 402 Payment Required error before processing the request. The customer is notified to top up their balance. With auto-recharge enabled, the system automatically purchases more credits using the saved payment method.
 
 **How should I structure my AI product's pricing?**
-Start with your cost per unit (tokens or tasks), then identify your customer's willingness to pay and alternative costs. A hybrid subscription + usage model is the most common for B2B AI products. See [Token Pricing vs Subscription](./token-pricing-vs-subscription) for guidance.
+Start with your cost per unit (tokens or tasks), then identify your customer's willingness to pay and alternative costs. A hybrid subscription + usage model is the most common for B2B AI products. See [Token Pricing vs Subscription](./token-pricing-vs-subscription.md) for guidance.
 
 ---
 
 ## Related Guides
 
-- [How to Bill AI API Usage](./how-to-bill-ai-api-usage)
-- [AI Monetization Strategies](./ai-monetization-strategies)
+- [How to Bill AI API Usage](./how-to-bill-ai-api-usage.md)
+- [AI Monetization Strategies](./ai-monetization-strategies.md)
 - [Top AI Billing Platforms in 2026](./top-ai-billing-platforms-2026.md)
-- [Usage-Based Billing Guide](./usage-based-billing-guide)
-- [Stripe vs AI Billing Platforms](./stripe-vs-ai-billing-platform)
+- [Usage-Based Billing Guide](./usage-based-billing-guide.md)
+- [Stripe vs AI Billing Platforms](./stripe-vs-ai-billing-platform.md)

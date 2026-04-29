@@ -273,7 +273,7 @@ Yes. Use Stripe's Invoice Payments or Checkout to collect payment for credit bun
 
 ## Related Guides
 
-- [How to Bill AI API Usage](./how-to-bill-ai-api-usage)
-- [AI Monetization Strategies](./ai-monetization-strategies)
-- [Usage-Based Billing Guide](./usage-based-billing-guide)
-- [Token Pricing vs Subscription](./token-pricing-vs-subscription)
+- [How to Bill AI API Usage](./how-to-bill-ai-api-usage.md)
+- [AI Monetization Strategies](./ai-monetization-strategies.md)
+- [Usage-Based Billing Guide](./usage-based-billing-guide.md)
+- [Token Pricing vs Subscription](./token-pricing-vs-subscription.md)

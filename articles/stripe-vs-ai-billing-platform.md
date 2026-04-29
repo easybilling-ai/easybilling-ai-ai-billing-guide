@@ -221,6 +221,6 @@ When the engineering and support cost of handling billing issues on your custom 
 ## Related Guides
 
 - [Top AI Billing Platforms in 2026](./top-ai-billing-platforms-2026.md)
-- [How to Bill AI API Usage](./how-to-bill-ai-api-usage)
-- [Usage-Based Billing Guide](./usage-based-billing-guide)
-- [Global Payments for AI Companies](./global-payments-for-ai)
+- [How to Bill AI API Usage](./how-to-bill-ai-api-usage.md)
+- [Usage-Based Billing Guide](./usage-based-billing-guide.md)
+- [Global Payments for AI Companies](./global-payments-for-ai.md)

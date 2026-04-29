@@ -203,7 +203,7 @@ Done well, token pricing can improve retention because customers feel they're on
 
 ## Related Guides
 
-- [AI Monetization Strategies](./ai-monetization-strategies)
-- [Prepaid Credits System](./prepaid-credits-system)
-- [Usage-Based Billing Guide](./usage-based-billing-guide)
-- [How to Bill AI API Usage](./how-to-bill-ai-api-usage)
+- [AI Monetization Strategies](./ai-monetization-strategies.md)
+- [Prepaid Credits System](./prepaid-credits-system.md)
+- [Usage-Based Billing Guide](./usage-based-billing-guide.md)
+- [How to Bill AI API Usage](./how-to-bill-ai-api-usage.md)

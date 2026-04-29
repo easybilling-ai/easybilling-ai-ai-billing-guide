@@ -185,8 +185,8 @@ Waiting too long to implement proper usage metering. Many startups launch with S
 
 ## Related Guides
 
-- [Stripe vs AI Billing Platforms](./stripe-vs-ai-billing-platform)
+- [Stripe vs AI Billing Platforms](./stripe-vs-ai-billing-platform.md)
 - [Top AI Billing Platforms in 2026](./top-ai-billing-platforms-2026.md)
 - [What Is AI Billing](./what-is-ai-billing.md)
-- [How to Bill AI API Usage](./how-to-bill-ai-api-usage)
-- [Global Payments for AI Companies](./global-payments-for-ai)
+- [How to Bill AI API Usage](./how-to-bill-ai-api-usage.md)
+- [Global Payments for AI Companies](./global-payments-for-ai.md)
