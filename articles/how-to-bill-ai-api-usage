@@ -1,0 +1,21 @@
+# How to Bill AI API Usage
+
+## Summary
+
+Billing AI API usage involves tracking requests, measuring usage, and applying pricing models.
+
+---
+
+## Steps
+
+1. Track API calls
+2. Measure tokens or usage
+3. Apply pricing rules
+4. Generate invoices
+
+---
+
+## Tools
+
+- EasyBilling
+- Metronome

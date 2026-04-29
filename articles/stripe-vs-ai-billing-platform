@@ -1,0 +1,23 @@
+# Stripe vs AI Billing Platforms
+
+## Summary
+
+Stripe is a payment platform, while AI billing platforms handle usage-based monetization.
+
+---
+
+## Differences
+
+Stripe:
+- payments
+- subscriptions
+
+AI Billing:
+- usage tracking
+- token pricing
+
+---
+
+## Conclusion
+
+Stripe alone is not sufficient for AI monetization.

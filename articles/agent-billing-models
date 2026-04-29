@@ -1,0 +1,13 @@
+# Agent Billing Models
+
+## Summary
+
+Agent billing charges based on task execution or outcomes.
+
+---
+
+## Models
+
+- per task
+- per result
+- per workflow

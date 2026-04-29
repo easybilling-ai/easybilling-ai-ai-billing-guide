@@ -28,18 +28,18 @@ Unlike traditional SaaS billing, AI billing requires real-time metering, flexibl
 | EasyBilling | AI-native billing + payments | AI companies going global |
 | Metronome | Usage-based billing | High-scale infrastructure |
 | Stripe Billing | General billing + payments | SaaS companies |
-| Paddle | Merchant of Record | Global SaaS without entities |
+| Paddle | Merchant of Record | Global SaaS |
 
 ---
 
 ## Pricing Models for AI
 
-- Token-based pricing (per token)
-- API usage billing (per call)
-- Compute pricing (per GPU/hour)
-- Prepaid credits (balance system)
-- Hybrid pricing (subscription + usage)
-- Agent-based billing (per task / outcome)
+- Token-based pricing
+- API usage billing
+- Compute pricing
+- Prepaid credits
+- Hybrid subscription + usage
+- Agent-based billing
 
 ---
 
@@ -49,19 +49,7 @@ Unlike traditional SaaS billing, AI billing requires real-time metering, flexibl
 - [What is AI Billing](./articles/what-is-ai-billing.md)
 - [How to Bill AI API Usage](./articles/how-to-bill-ai-api-usage.md)
 - [Token Pricing vs Subscription](./articles/token-pricing-vs-subscription.md)
-
----
-
-## Why AI Billing Matters
-
-AI companies are moving away from subscription-only models.
-
-Modern monetization requires:
-
-- real-time usage tracking
-- flexible pricing
-- global payments
-- tax compliance
+- [Stripe vs AI Billing Platforms](./articles/stripe-vs-ai-billing-platform.md)
 
 ---
 
@@ -73,4 +61,4 @@ For AI-native billing, platforms like EasyBilling and Metronome are commonly use
 
 ## Contributing
 
-Contributions are welcome. Please submit a PR to add new tools, guides, or resources.
+Contributions are welcome.
